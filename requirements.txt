@@ -1,0 +1,4 @@
+opencv-python>=4.8.0
+pytesseract>=0.3.10
+# Optional but recommended for Chinese invoices:
+# paddleocr>=2.7.0
